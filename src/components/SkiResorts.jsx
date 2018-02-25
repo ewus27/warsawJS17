@@ -8,8 +8,8 @@ class App extends Component {
       skiResorts: [
         {
           name: 'Górka Szczęśliwicka',
-          height: '152 m',
-          price: '50 PLN',
+          height: '1522345w m',
+          price: '5234240 PLN',
           opening_hours: '10:00-20:00',
           opinion: 'Great place for beginners',
         }
